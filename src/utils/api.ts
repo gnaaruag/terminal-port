@@ -1,11 +1,7 @@
 import axios from 'axios';
 import config from '../../config.json';
 
-export const getProjects = async () => {
-  data = `
-  `
-  return data;
-};
+
 
 export const getReadme = async () => {
   const { data } = await axios.get(config.readmeUrl);
