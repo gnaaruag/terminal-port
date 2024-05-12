@@ -1,0 +1,36 @@
+{
+  "readmeUrl": "https://raw.githubusercontent.com/gnaaruag/gnaaruag/main/README.md",
+  "title": "Portfolio - Gaurang Ratnaparkhi",
+  "name": "Gaurang Ratnaparkhi",
+  "ascii": "Gaurang",
+  "social": {
+    "github": "gnaaruag",
+    "linkedin": "gaurangratnaparkhi/"
+  },
+  "email": "gnaruag.work@gmail.com",
+  "ps1_hostname": "portfolio",
+  "ps1_username": "gnaaruag",
+  "repo": "https://github.com/gnaaruag",
+  "resume_url": "https://drive.google.com/drive/u/1/folders/192IUKS2oXz8MSwG3qu4JQz4qALNblpy_",
+  
+  "colors": {
+    "light": {
+      "background": "#FFFFDB",
+      "foreground": "#282a36",
+      "yellow": "#ffb86c",
+      "green": "#50fa7b",
+      "gray": "#8B6BB9",
+      "blue": "#67AFC0",
+      "red": "#ff5555"
+    },
+    "dark": {
+      "background": "#282a36",
+      "foreground": "#f8f8f2",
+      "yellow": "#ffb86c",
+      "green": "#50fa7b",
+      "gray": "#bd93f9",
+      "blue": "#8be9fd",
+      "red": "#ff5555"
+    }
+  }
+}

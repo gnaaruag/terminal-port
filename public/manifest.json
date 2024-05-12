@@ -1,0 +1,20 @@
+{
+  "name": "gaurang portfolio",
+  "short_name": "portfolio",
+  "theme_color": "#2E3440",
+  "background_color": "#2E3440",
+  "display": "fullscreen",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "/icon96.png",
+      "sizes": "36x36",
+      "type": "image/png",
+      "density": "0.75"
+    }
+    
+  ],
+  "splash_pages": null
+}
