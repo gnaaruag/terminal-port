@@ -106,6 +106,6 @@ export const banner = (args?: string[]): string => {
 
 Type 'help' to see the list of available commands.
 Type 'sumfetch' to display summary.
-Type 'repo' or click <u><a class="text-light-blue dark:text-dark-blue underline" href="${config.repo}" target="_blank">here</a></u> for the Github repository.
+this web app looks a lot better on wider screens, if you're on a mobile i'd recommend you switch to <u><a href="https://gnaaruag.netlify.app">this</a></u>
 `;
 };
